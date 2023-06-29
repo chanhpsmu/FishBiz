@@ -3,7 +3,7 @@ title: ""
 format: 
   html:
     mainfont: segoe UI
-    fontsize: 15pxuse
+    fontsize: 15px
     
 toc: false
 editor: visual   
