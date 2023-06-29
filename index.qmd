@@ -1,5 +1,4 @@
 ---
-title: ""
 format: 
   html:
     mainfont: segoe UI
