@@ -1,8 +1,5 @@
 ---
-format: 
-  html:
-    mainfont: segoe UI
-    fontsize: 15px
+
     
 toc: false
 editor: visual   
@@ -12,7 +9,6 @@ editor: visual
 *A Fishy Business!*
 :::
 
-![](cartoon-style-yellow-fish-vector.jpg){fig-align="center" width="197"}
 
 ::: center-align1
 This Visual Analytics Project is based on Vast Challenge 2023.
